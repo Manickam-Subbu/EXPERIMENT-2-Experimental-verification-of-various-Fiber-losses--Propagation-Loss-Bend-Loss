@@ -25,12 +25,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 ### Tabulation:
 
-### Propagation Loss
-![WhatsApp Image 2025-11-11 at 16 24 30_b9db140f](https://github.com/user-attachments/assets/ea088db1-8ee3-4bae-9423-4b0b3bcc11c0)
 
-
-### Bending Loss
-![WhatsApp Image 2025-11-11 at 16 25 06_265c976d](https://github.com/user-attachments/assets/4ef140d7-371e-4a50-8caa-26d2dd252e41)
+![WhatsApp Image 2025-11-17 at 22 01 14_100479aa](https://github.com/user-attachments/assets/de7b84c0-2e2e-4870-b877-ecb1cc05f57a)
 
 
 
