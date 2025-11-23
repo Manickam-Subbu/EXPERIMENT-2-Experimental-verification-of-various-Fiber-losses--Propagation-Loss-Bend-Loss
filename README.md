@@ -84,9 +84,15 @@ MEASUREMENT OF BENDING LOSSES:
 ![WhatsApp Image 2025-11-17 at 22 01 14_100479aa](https://github.com/user-attachments/assets/de7b84c0-2e2e-4870-b877-ecb1cc05f57a)
 
 
-
 **Result:**  
-Attenuation and bending loss characteristics verified.
+The experiment successfully verified the losses in a fiber-optic link:
+
+The propagation (transmission) loss was measured over different lengths of the fiber for two wavelengths (660 nm & 950 nm) and found to increase with length, confirming the expected attenuation behaviour.
+
+The bending loss was observed by varying the loop diameter of the fiber and measuring output amplitude — as the bend diameter decreased, the output dropped, verifying increased bending loss.
+
+Hence, the aim of measuring both propagation loss and bending loss characteristics of the fiber was achieved.
+
 
 
 ---
